@@ -26,7 +26,7 @@ The device has these functionalities:
 
 * Pressure mat: Detects when person has sat down on sofa
 * IR reciever & sender: You can teach IR signals from your remote to be stored in device. This way the device can open up TV and for example your favorite channel when you sit down.
-* Light controls: The device controls smart lights with 3 states that user can modify easily bith buttons.
+* Light controls: The device controls smart lights with 3 states that user can modify easily with buttons.
 * LED: Indicator for user to see if device is functioning properly
 
 Device has 3 phases:
